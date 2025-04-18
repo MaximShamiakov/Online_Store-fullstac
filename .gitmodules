@@ -1,0 +1,6 @@
+[submodule "Online_Store_Django-2.0"]
+	path = Online_Store_Django-2.0
+	url = git@github.com:MaximShamiakov/Online_Store_Django-2.0.git
+[submodule "Online-Store"]
+	path = Online-Store
+	url = git@github.com:MaximShamiakov/Online-Store.git
